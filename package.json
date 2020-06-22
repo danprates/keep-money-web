@@ -1,7 +1,12 @@
 {
   "name": "keep-money-web",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
+  "author": {
+    "name": "Daniel Prates",
+    "email": "danprates94@gmail.com"
+  },
+  "license": "MIT",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt-ts build",
